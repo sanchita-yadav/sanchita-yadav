@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I’m Sanchita
 
-<!--
-**sanchita-yadav/sanchita-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⦿ CS Engineering student.
+⦿ Cybersecurity enthusiast.
+⦿ CTFs, systems, and learning how things break (ethically).
 
-Here are some ideas to get you started:
+⦿ What I’m into
+	•	Cybersecurity & threat detection
+	•	Linux, Python, C/C++
+	•	CTFs & security labs
+	•	Building projects instead of just talking about them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⦿ Currently
+	•	Strengthening fundamentals
+	•	Working on security-focused projects
+	•	Learning by doing, failing, fixing, repeating
+
